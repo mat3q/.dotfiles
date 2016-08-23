@@ -1,0 +1,23 @@
+urxvt*foreground:   #c0c0c0
+urxvt*background:   #1d2325
+urxvt*cursorColor:  #c0c0c0
+urxvt*color0:       #252525
+urxvt*color8:       #434343
+urxvt*color1:       #7c4d72
+urxvt*color9:       #c758af
+urxvt*color2:       #727c4d
+urxvt*color10:      #afc758
+urxvt*color3:       #7c724d
+urxvt*color11:      #c7af58
+urxvt*color4:       #4d727c
+urxvt*color12:      #58afc7
+urxvt*color5:       #7d4d5b
+urxvt*color13:      #c75877
+urxvt*color6:       #4d5b7d
+urxvt*color14:      #5877c7
+urxvt*color7:       #c0c0c0
+urxvt*color15:      #f3f3f3
+urxvt*font:         xft:terminus:size=10:autohint=false:antialias=true:hinting=true
+urxvt.scrollBar:    false
+urxvt.perl-ext-common:	default,clipboard
+URxvt.iso14755 : false
