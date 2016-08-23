@@ -1,0 +1,37 @@
+#author mat3
+
+# Background 1: Main
+rounded = 3
+border_width = 0
+border_sides = 
+background_color = #000000 61
+border_color = #555555 80
+background_color_hover = #000000 60
+border_color_hover = #555555 80
+background_color_pressed = #000000 61
+border_color_pressed = #555555 80
+
+#-------------------------------------
+# Panel
+panel_items = (null)
+panel_size = 45 40
+panel_margin = 110 10
+panel_padding = 5 2 4
+panel_background_id = 1
+wm_menu = 1
+panel_dock = 0
+panel_position = bottom right horizontal
+panel_layer = top
+panel_monitor = all
+primary_monitor_first = 0
+autohide = 0
+autohide_show_timeout = 0
+autohide_hide_timeout = 0.5
+autohide_height = 2
+strut_policy = none
+panel_window_name = tint2
+disable_transparency = 0
+mouse_effects = 1
+font_shadow = 0
+mouse_hover_icon_asb = 100 0 10
+mouse_pressed_icon_asb = 100 1 0
